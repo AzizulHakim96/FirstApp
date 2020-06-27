@@ -12,6 +12,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 //change something in the branch
+//now send pull req to master
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
